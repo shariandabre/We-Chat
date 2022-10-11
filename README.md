@@ -22,7 +22,7 @@ Make using :
 
 ![image](https://user-images.githubusercontent.com/94830605/195122101-123a59de-a57f-4975-85ba-4089969c0a10.png)
 
-#### we can also send images.
+#### we can send images and see lastmessage.
 
 
 

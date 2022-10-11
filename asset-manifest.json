@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/We-Chat/static/css/main.501740ed.css",
+    "main.js": "/We-Chat/static/js/main.51b06292.js",
+    "static/js/787.9126e024.chunk.js": "/We-Chat/static/js/787.9126e024.chunk.js",
+    "index.html": "/We-Chat/index.html",
+    "main.501740ed.css.map": "/We-Chat/static/css/main.501740ed.css.map",
+    "main.51b06292.js.map": "/We-Chat/static/js/main.51b06292.js.map",
+    "787.9126e024.chunk.js.map": "/We-Chat/static/js/787.9126e024.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.501740ed.css",
+    "static/js/main.51b06292.js"
+  ]
+}
